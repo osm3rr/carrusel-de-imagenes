@@ -1,0 +1,32 @@
+// Guión para el carrusel con tkinter
+
+1- Realizar un mockup de la aplicación,
+con las funcionalidades principales.
+  .1 Ubicación de la imagen.
+  .2 ubicación de los botones de avanzar y 
+  retroceder.
+  3. Presentar el diagramado o grid de la app
+
+
+2- Crear la ventana principal.
+
+3- Cargar las imagenes, resaltando que se puede
+usar una sola sentencia para abrir la imagen y 
+convertirla del tipo foto.
+
+4- Agregar los botones en la ubicación correcta.
+   .1 Luego de ejecutar, para mostrar como va quedando,
+   incluir el parámetro con el estado del botón.
+
+5- Asignar al parámetro comando de cada boton,
+la función que permita cumplir con las funcionalidades
+esperadas: atras y adelante.
+
+6- Agregar las funciones delante, los botones.
+**Reflexionar, sobre la ubicación de las funciones
+para que todo funcione correctamente.
+  .1 * Para las funciones el objetivo será, eliminar 
+  y sustituir las imagenes respectivas
+  .2 Se definen variables globales (que se pueden
+  llamar o utilizar en todo el código).
+  
