@@ -1,2 +1,2 @@
-# carrusel-de-imagenes
-Carrusel de imágenes en tkinter
+# Carrusel de imagenes
+Carrusel de imágenes en tkinter - python
